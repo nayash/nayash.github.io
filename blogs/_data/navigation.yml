@@ -1,5 +1,0 @@
-# This is used to show navigation options on top of each page automatically via /_layouts/default.html.
-- name: Home
-  link: /
-- name: About
-  link: /about

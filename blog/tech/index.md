@@ -1,8 +1,10 @@
 ---
 slug: tech/welcome
-title: Welcome to My Tech Blog
+title: Tech Blog
 authors: [nayash]
 tags: [nayash, Android, Machine Learning, Python]
+enableComments: true
+draft: true
 ---
 
 #### This section will house the tech related writings.

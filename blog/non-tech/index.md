@@ -1,8 +1,10 @@
 ---
 slug: non-tech/welcome
-title: Welcome to My Non-Tech Blog
+title: Non-Tech Blog
 authors: [nayash]
 tags: []
+enableComments: true
+draft: true
 ---
 
 #### This section will host my other writings may on books, movies, philosophy.

@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Nayash Blog',
-  tagline: 'Brain dump',
+  title: 'Nayash\'s Brain Dump',
+  tagline: 'Personal Blog',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here

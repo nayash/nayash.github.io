@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunknayash_github_io=self.webpackChunknayash_github_io||[]).push([[943],{7579:a=>{a.exports=JSON.parse('{"label":"nayash","permalink":"/blog/tags/nayash","allTagsPath":"/blog/tags","count":1}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunknayash_github_io=self.webpackChunknayash_github_io||[]).push([[596],{875:a=>{a.exports=JSON.parse('{"permalink":"/blog/tags/android","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

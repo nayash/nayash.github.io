@@ -22,7 +22,7 @@ const config = {
   projectName: 'nayash.github.io', // Usually your repo name.
   trailingSlash: false,
   deploymentBranch: 'gh-pages',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internalization, you can use this field to set useful

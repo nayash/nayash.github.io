@@ -20,7 +20,7 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'nayash', // Usually your GitHub org/user name.
   projectName: 'nayash.github.io', // Usually your repo name.
-  trailingSlash: false,
+  trailingSlash: true,
   deploymentBranch: 'gh-pages',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
@@ -47,7 +47,7 @@ const config = {
         //   //   'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         // },
         blog: {
-          blogTitle: "Nayash's Brain Dumpy",
+          blogTitle: "Blog",
           postsPerPage: 'ALL',
           showReadingTime: true,
           // Please change this to your repo.
